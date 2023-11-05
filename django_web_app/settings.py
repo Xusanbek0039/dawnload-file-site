@@ -75,8 +75,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'django_web_app.wsgi.application'
 
 
-# Database
-# https://docs.djangoproject.com/en/2.1/ref/settings/#databases
+# Malumotlar bazasi
 
 DATABASES = {
     'default': {
@@ -86,8 +85,7 @@ DATABASES = {
 }
 
 
-# Password validation
-# https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
+# Parolni tekshirish
 
 AUTH_PASSWORD_VALIDATORS = [
     {
@@ -105,8 +103,8 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
-# Internationalization
-# https://docs.djangoproject.com/en/2.1/topics/i18n/
+
+# O'zbekiston bo'lsa Asia/Tashkent yokida boshqa viloyat kiritish mumkin misol uchun Samarqand
 
 LANGUAGE_CODE = 'en-uz'
 
