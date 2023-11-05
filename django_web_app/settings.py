@@ -107,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # O'zbekiston bo'lsa Asia/Tashkent yokida boshqa viloyat kiritish mumkin misol uchun Samarqand
 
-LANGUAGE_CODE = 'en-uz'
+LANGUAGE_CODE = 'uz'
 
 TIME_ZONE = 'Asia/Tashkent'
 
