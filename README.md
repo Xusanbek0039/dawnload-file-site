@@ -68,4 +68,4 @@ Eslatma: Agar qadamlar to'g'ri bajarilsa loyiha ishga tushadi!
 
 ## Deploy qilingan sayt linki:
 
-# 
+# https://ebook-uz.onrender.com
